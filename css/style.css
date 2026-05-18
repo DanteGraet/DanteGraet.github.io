@@ -94,6 +94,14 @@ p {
     width: 250px;
 }
 
+.galleryCreation img {
+    outline-color: #37c7d4;
+}
+
+.galleryPhoto img {
+    outline-color: #c137d4;
+}
+
 .gallery h2 {
     transform: translateY(10px);
     color: #d4af37;
